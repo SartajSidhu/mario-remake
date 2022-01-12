@@ -6,7 +6,6 @@ Here is a screenshot of the home page
 ![](images/home.png)
 
 Level 1
-
 ![](images/game.png)
 
 Level 2 includes goombas
